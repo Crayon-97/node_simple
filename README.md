@@ -10,10 +10,15 @@ simple 小程序后台服务
 ## 开发依赖
 
 .koa2
+
 .koa-body
+
 .koa-router
+
 .koa2-cors
+
 .koa2-request
+
 .mysql
 
 ## 部署数据库
@@ -31,4 +36,5 @@ sql 文件在 db 下，执行即可
 ## 部署后台
 
 yarn
+
 node app.js

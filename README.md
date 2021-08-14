@@ -1,4 +1,4 @@
-# simple_mp
+# node_simple
 
 simple 小程序后台服务
 
